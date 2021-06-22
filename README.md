@@ -6,11 +6,11 @@ It is a single page e-commerce website, where the user can see the details of an
 ## Technology
 
 * React
-* React & Redux 
+* Firebase
 * React router
 * React hooks
 * React icons
-* currencyFormatter
+* Bootstrap
 
 
 ## Screenshots
