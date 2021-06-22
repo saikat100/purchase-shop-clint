@@ -1,0 +1,82 @@
+[
+	{
+		"name": "Addidas Boot",
+		"img": "https://i.ibb.co/jhP2KxQ/addidas-boot.jpg",
+		"price": "$50"
+	},
+	{
+		"name": "Addidas Ball",
+		"img": "https://i.ibb.co/svk8ktC/addidas-football.jpg",
+		"price": "$150"
+	},
+	{
+		"name": "Addidas T-shirt",
+		"img": "https://i.ibb.co/3YTRNgn/addidas-tshirt.jpg",
+		"price": "$100"
+	},
+	{
+		"name": "Galaxys 7",
+		"img": "https://i.ibb.co/GHXSWBL/galaxys7.jpg",
+		"price": "$350"
+	},
+	{
+		"name": "HTC 10",
+		"img": "https://i.ibb.co/gwQbxQp/htc10.jpg",
+		"price": "$250"
+	},
+	{
+		"name": "Iphone 8",
+		"img": "https://i.ibb.co/ZcrxSMM/iphone8.jpg",
+		"price": "$750"
+	},
+	{
+		"name": "Iphone 8 Plus",
+		"img": "https://i.ibb.co/5TmtBKP/iphone8plus.jpg",
+		"price": "$850"
+	},
+	{
+		"name": "Lumia 900",
+		"img": "https://i.ibb.co/LNwtx0R/lumia900.jpg",
+		"price": "$299"
+	},
+	{
+		"name": "Lumia 920",
+		"img": "https://i.ibb.co/3khPG2b/lumia920.jpg",
+		"price": "$300"
+	},
+	{
+		"name": "Nike Boot",
+		"img": "https://i.ibb.co/HrPCs1f/nike-boot.jpg",
+		"price": "$90"
+	},
+	{
+		"name": "Nike Shorts",
+		"img": "https://i.ibb.co/Q8ZKZN8/nike-shorts.jpg",
+		"price": "$55"
+	},
+	{
+		"name": "Nike T-shirt",
+		"img": "https://i.ibb.co/dLpY7cL/nike-tshirt.jpg",
+		"price": "$99"
+	},
+	{
+		"name": "Niva Football",
+		"img": "https://i.ibb.co/YyMNxxZ/niva-football.jpg",
+		"price": "$330"
+	},
+	{
+		"name": "Roe Watch",
+		"img": "https://i.ibb.co/dkCB8Xh/roewatch.jpg",
+		"price": "$350"
+	},
+	{
+		"name": "Xperia 1",
+		"img": "https://i.ibb.co/Ns9KDZ8/xperia.jpg",
+		"price": "$446"
+	},
+	{
+		"name": "Xperia Z",
+		"img": "https://i.ibb.co/HrNsR8g/xperiaz.jpg",
+		"price": "$530"
+	}
+]
